@@ -22,9 +22,6 @@ dups -e jpg -e png /tmp
 ```
 
 ### Installation
-If you just want to use the program you can [download the latest release](https://github.com/codehill/dups/releases) from the releases page.
-
-However, if you want the source code too you can use Go as follows:
 ```
 go get github.com/codehill/dups
 ```
